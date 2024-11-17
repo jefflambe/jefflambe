@@ -1,0 +1,59 @@
+---
+title: Publications
+---
+
+1.  Ehrhardt H, **Lambe J**, Moussa H, Vasileiou, Kalaitzidis G, Murphy OC, et al. Effects of ibudilast on retinal atrophy in progressive multiple sclerosis subtypes: post-hoc analyses of the SPRINT-MS Trial. Neurology. 2023; 101(10):e1014-1024. doi: 10.1212/WNL.0000000000207551.
+
+2.  Kalaitzidis G, Pellegrini N, Nagy N, Vasileiou E, Ehrhardt H, Reppen A,… **Lambe J**, et al. Effects of myopia on rates of change in optical coherence tomography measured retinal layer thicknesses in people with multiple sclerosis and healthy controls. Curr Eye Res. 2023; 48(3):312-319. doi: 10.1080/02713683.2022.2149806.
+
+3.  Murphy OC, Sotirchos ES, Kalaitzidis G, Vasileiou E, Ehrhardt H, **Lambe J**, Kwakyi O, et al. Trans-synaptic degeneration following acute optic neuritis in multiple sclerosis. Ann Neurol. 2023; 93(1):76-87. doi: 10.1002/ana.26529.
+
+4.  Kalaitzidis G, Filippatou AG, Fioravante F, Rothman A, Sotirchos ES, Vasileiou ES,… **Lambe J**, et al. Visual pathway involvement in NMDA receptor encephalitis: a clinical, optical coherence tomography, and 18-fluorodeoxyglucose PET/CT approach. J Neuroophthalmol. 2023; 43(2):220-226. doi: 10.1097/WNO.0000000000001696.
+
+5.  **Lambe J**, McGinley MP, Moss BP, Mao-Draayer Y, Kassa R, Ciotti J, et al. Myelin oligodendrocyte glycoprotein-IgG associated disorders (MOGAD) following SARS-CoV-2 infection: A case series. J Neuroimmunol. 2022; 370:577933. doi: 10.1016/j.jneuroim.2022.577933.
+
+6.  Sotirchos ES, Vasileiou ES, Filippatou AG, Fitzgerald KC, Smith MD, Lord HN, Kalaitzidis G, **Lambe J**, et al. Association of serum neurofilament light chain with inner retinal layer thinning in multiple sclerosis. Neurology. 2022; 99(7):e688-e697. doi: 10.1212/WNL.0000000000200778.
+
+7.  Vasileiou ES, Filippatou AF, Pimentel Maldonado D, Kalaitzidis G, Ehrhardt H, **Lambe J**, et al. Socioeconomic disparity is associated with faster retinal neurodegeneration in multiple sclerosis. Brain. 2021; 144(12):3665-3673. doi: 10.1093/brain/awab342.
+
+8.  Mizell R, Chen H, **Lambe J**, Saidha S, Harrison DM. Association of retinal atrophy with cortical lesions and leptomeningeal enhancement in multiple sclerosis on 7T MRI. Mult Scler. 2022; 28(3):393-405. 2021. doi: 10.1177/13524585211023343.
+
+9.  Filippatou AG, Vasileiou ES, He Y, Fitzgerald KC, Kalaitzidis G, **Lambe J**, et al. Optic neuritis-independent retinal atrophy in neuromyelitis optica spectrum disorder. J Neuroophthalmol. 2022; 42(1):e40-e47. doi: 10.1097/WNO.0000000000001282.
+
+10. **Lambe J**, Risher H, Filippatou AG, Murphy OC, Sotirchos ES, Ehrhardt H, et al. Modulation of retinal atrophy with rituximab in multiple sclerosis. Neurology. 2021; 96(20)e2525-e2533. doi: 10.1212/WNL.0000000000011933.
+
+11. **Lambe J**, Fitzgerald KC, Murphy OC, Filippatou AG, Sotirchos ES, Kalaitzidis G, et al. Association of spectral-domain OCT with long-term disability worsening in multiple sclerosis. Neurology. 2021; 96(16):e2058-e2069. doi: 10.1212/WNL.0000000000011788.
+
+12. Murphy OC, Kalaitzidis G, Vasileiou E, Filippatou AG, **Lambe J**, Ehrhardt H, et al. Optical coherence tomography and optical coherence tomography angiography findings after optic neuritis in multiple sclerosis. Front Neurol. 2020; 11:618879. doi: 10.3389/fneur.2020.618879.
+
+13. Filippatou AG, Moniruzzaman M, Sotirchos ES, Fitzgerald KC, Kalaitzidis G, **Lambe J**, et al. Serum ceramide levels are altered in multiple sclerosis. Mult Scler. 2021; 27(10):1506-1519. doi: 10.1177/1352458520971816.
+
+14. Filippatou AG, Vasileiou ES, He Y, Fitzgerald KC, Kalaitzidis G, **Lambe J**, et al. Evidence of subclinical quantitative retinal layer abnormalities in AQP4-IgG seropositive NMOSD. Mult Scler. 2021; 27(11):1738-1748. doi: 10.1177/1352458520977771.
+
+15. **Lambe J**, Saidha S, Bermel R. Optical coherence tomography and multiple sclerosis: Update on clinical application and role in clinical trials. Mult Scler. 2020; 26(6):624-639. doi: 10.1177/1352458519872751.
+
+16. Filippatou AG, **Lambe J**, Sotirchos ES, Fitzgerald KC, Aston A, Murphy OC, et al. \[\*Authors contributed equally\]. Association of body mass index with longitudinal rates of retinal atrophy in multiple sclerosis. Mult Scler. 2020; 26(7):843-854. doi: 10.1177/1352458519900942.
+
+17. Sotirchos ES, Gonzalez-Caldito N, Filippatou AG, Fitzgerald KC, Murphy OC, **Lambe J**, et al. Progressive multiple sclerosis is associated with faster and specific retinal layer atrophy. Ann Neurol. 2020; 87(6):885-896. doi: 10.1002/ana.25738.
+
+18. **Lambe J**, Rothman A, Prince J, Saidha S, Calabresi PA, Newsome SD. Retinal pathology occurs in stiff person syndrome. Neurology. 2020; 94(20):e2126-e2131. doi: 10.1212/WNL.0000000000008943.
+
+19. **Lambe J**, Murphy OC, Mu W, Sondergaard Schatz K, Baranano K, Venkatesan A. Relapsing remitting clinical course expands the phenotype of Aicardi-Goutières syndrome. Ann Clin Transl Neurol. 2020; 7(2):254-258. doi: 10.1002/acn3.50979.
+
+20. Murphy OC, Kwakyi O, Iftikhar M, Zafar S, **Lambe J**, Pellegrini N, et al. Alterations in the retinal vasculature occur in multiple sclerosis and exhibit novel correlations with disability and visual function measures. Mult Scler. 2020; 26(7): 815-828. doi: 10.1177/1352458519845116.
+
+21. Bede P, Finegan E, Chipika RH, Shing SL, **Lambe J**, Meaney J, Redmond J. Occulomotor neural integrator dysfunction in multiple sclerosis: insights from neuroimaging. Front Neurol. 2018; 23;9:691. doi: 10.3389/fneur.2018.00691.
+
+22. **Lambe J**, Monaghan B, Munteanu T, Redmond J. CAPN1 mutations broadening the hereditary spastic paraplegia/spinocerebellar ataxia phenotype. Pract Neurol. 2018; 18(5):369-372. doi: 10.1136/practneurol-2017-001842.
+
+23. **Lambe J**, Murphy OC, Saidha S. Can optical coherence tomography be used to guide treatment decisions in adult or pediatric multiple sclerosis? Curr Treat Options Neurol. 2018; 20(4):9. doi: 10.1007/s11940-018-0493-6.
+
+24. **Lambe J**, Noone I, Lonergan R, Tubridy N. Auditing the frequency and the clinical and economic impact of testing for Fabry disease in patients under the age of 70 with a stroke admitted to Saint Vincent’s University Hospital over a 6-month period. Ir J Med Sci. 2018; 187(1):189-92. doi: 10.1007/s11845-017-1625-9.
+
+25. **Lambe J**, Redmond J. Analysis of the outpatient lumbar puncture service in a tertiary hospital. Ir J Med Sci. 2018; 187(2):521-524. Doi: 10.1007/s11845-017-1681-1.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

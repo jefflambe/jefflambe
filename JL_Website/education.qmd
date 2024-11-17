@@ -1,0 +1,67 @@
+---
+title: "Education & Training"
+---
+
+# 
+
+2024 - **Clinical Research Fellow, Neuroimmunology**
+
+*Mellen Center for Multiple Sclerosis, Cleveland Clinic, Cleveland, OH*
+
+# 
+
+2024 - **Candidate, Master’s Degree in Clinical Research**
+
+*Clinical Research Scholars Program, Case Western Reserve University*, *Cleveland, OH*
+
+# 
+
+2020 - 2024 - **Residency, Adult Neurology**
+
+***Chief Resident, 2023-24***
+
+*Cleveland Clinic, Cleveland, OH*
+
+# 
+
+2018 - 2024 - **MD (Doctor of Medicine Graduate Research Degree)**
+
+*Thesis:* In vivo investigation of the modulation of retinal atrophy by ocrelizumab in multiple sclerosis: a prospective study
+
+*University College Dublin, Dublin, Ireland*
+
+# 
+
+2018 – 2020 - **Post-Doctoral Research Fellowship, Neuroimmunology**
+
+*Johns Hopkins School of Medicine, Baltimore, MD*
+
+# 
+
+2018 – 2019 **- Statistical Methods in Public Health**
+
+*Johns Hopkins Bloomberg School of Public Health, Baltimore, MD*
+
+# 
+
+2016 – 2018 - **MRCPI (Member of the Royal College of Physicians of Ireland), Senior House Officer, Internal Medicine**
+
+*Saint James’s Hospital, Dublin, Ireland*
+
+# 
+
+2015 – 2016 - **Intern, Medicine**
+
+*Saint Vincent’s Hospital, Dublin, Ireland*
+
+# 
+
+2009 – 2015 - **MBBCh (Bachelor of Medicine, Bachelor of Surgery)**
+
+*University College Dublin, Dublin, Ireland*
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
